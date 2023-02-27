@@ -1,0 +1,12 @@
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\Loja.Infra.EF.exe.config
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\Loja.Infra.EF.exe
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\Loja.Infra.EF.pdb
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\EntityFramework.dll
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\EntityFramework.SqlServer.dll
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\EntityFramework.xml
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\bin\Debug\EntityFramework.SqlServer.xml
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.AssemblyReference.cache
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.CoreCompileInputs.cache
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.csproj.CopyComplete
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.exe
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.EF\obj\Debug\Loja.Infra.EF.pdb

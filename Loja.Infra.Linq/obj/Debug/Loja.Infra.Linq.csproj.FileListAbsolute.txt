@@ -1,0 +1,7 @@
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\bin\Debug\Loja.Infra.Linq.exe.config
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\bin\Debug\Loja.Infra.Linq.exe
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\bin\Debug\Loja.Infra.Linq.pdb
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\obj\Debug\Loja.Infra.Linq.csproj.AssemblyReference.cache
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\obj\Debug\Loja.Infra.Linq.csproj.CoreCompileInputs.cache
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\obj\Debug\Loja.Infra.Linq.exe
+D:\Curso\LinqLambdaExpression\LinqLambdaExpression\Loja.Infra.Linq\obj\Debug\Loja.Infra.Linq.pdb
