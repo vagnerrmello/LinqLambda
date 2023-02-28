@@ -12,7 +12,7 @@ namespace LinqLambdaExpression
         static void Main(string[] args)
         {
             //GerenciarCategoria();
-            GerenciarProduto();
+            //GerenciarProduto();
 
             Console.ReadKey();
         }
@@ -30,7 +30,6 @@ namespace LinqLambdaExpression
             AdicionarAlterarProdutoComEntityFramework(produto);
 
             Console.WriteLine("Comando executado com sucesso!");
-            Console.ReadKey();
         }
 
         public static void GerenciarCategoria()
@@ -55,7 +54,6 @@ namespace LinqLambdaExpression
             Console.WriteLine("------> LINQ to SQL");
             BuscarTodasAsCategoriasComLinq();
         }
-
 
         #region EntityFrameworkCategoria
         public static void AdicionarAlterarCategoriaComEntityFramework(Loja.Infra.EF.Categoria categoria)
@@ -85,8 +83,6 @@ namespace LinqLambdaExpression
             var categorias = new Loja.Infra.EF.Repositorio.RepositorioCategoria().BuscarTodasAsCatetorias();
 
             categorias.ForEach(x => Console.WriteLine(JsonConvert.SerializeObject(x)));
-
-            Console.ReadKey();
         }
         #endregion
 
@@ -118,11 +114,8 @@ namespace LinqLambdaExpression
             var categorias = new Loja.Infra.Linq.Repositorio.RepositorioCategoria().BuscarTodasAsCatetorias();
 
             categorias.ForEach(x => Console.WriteLine(JsonConvert.SerializeObject(x)));
-
-            Console.ReadKey();
         }
         #endregion
-
 
         #region EntityFrameworkProduto
         public static void AdicionarAlterarProdutoComEntityFramework(Loja.Infra.EF.Produto produto)
@@ -160,11 +153,7 @@ namespace LinqLambdaExpression
         //    var categorias = new Loja.Infra.EF.Repositorio.RepositorioCategoria().BuscarTodasAsCatetorias();
 
         //    categorias.ForEach(x => Console.WriteLine(JsonConvert.SerializeObject(x)));
-
-        //    Console.ReadKey();
         //}
         #endregion
-
-
     }
 }
